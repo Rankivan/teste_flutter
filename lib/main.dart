@@ -4,6 +4,6 @@ import 'app_wigdet.dart';
 
 main() {
   runApp(
-     const AppWidget(title: 'Teste flutter',),
+     AppWidget(title: 'Teste flutter',),
   );
 }
